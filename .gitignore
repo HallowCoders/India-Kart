@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IndiaKart_Backend/.vs/IndiaKart_Backend
+/IndiaKart_Backend/bin/Debug/netcoreapp3.1
+/IndiaKart_Backend/obj/
+/IndiaKart_Backend/obj/Debug/netcoreapp3.1/IndiaKart_Backend.AssemblyInfo.cs
+/IndiaKart_Backend/obj/Debug/
+IndiaKart_Backend/.vs/ProjectEvaluation/indiakart_backend.metadata.v7.bin
+IndiaKart_Backend/.vs/ProjectEvaluation/indiakart_backend.projects.v7.bin
+IndiaKart_Backend/bin/
+IndiaKart_Backend/.vs/ProjectEvaluation/
+IndiaKart_Backend/Properties/
+IndiaKart_Backend/.config/
+
+IndiaKart_Backend/IndiaKart_Backend.csproj.user
